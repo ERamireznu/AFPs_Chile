@@ -13,3 +13,6 @@ Se muestran las siguientes opciones en la interfaz gráfica:
   por numeros: (ej.) 1000, 1500 (números visibles en graficos historicos, eje x
 - Aceptar: datos ingresados
 - Grafico/Renta por tramo: se muestra en detalle para los datos ingresados por el usuario
+
+Ultima actualización: 29/10/2025 
+archivo a ejecutar: "afp_data_v03.py"
